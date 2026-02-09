@@ -2,7 +2,7 @@
   <img src="your-banner.gif" alt="Header" width="100%">
 </div>
 
-<h1 align="center">Hi 👋, I'm Luyanda</h1>
+<h1 align="center">Hi 👋, I'm Luyanda Zondi</h1>
 <h3 align="center">Software Developer passionate about Coding and developing websites, Softwares and Applications cant forget networking too</h3>
 
 ## 🌐 Socials:
